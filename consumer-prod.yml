@@ -5,5 +5,5 @@ eureka:
         service-url:
             defaultZone: http://localhost:8761/eureka/
 girl:
-    age: 25
-    name: 张三
+    age: 251
+    name: 张三1
