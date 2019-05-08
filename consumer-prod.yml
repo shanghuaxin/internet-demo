@@ -1,0 +1,9 @@
+env: prod-env
+
+eureka:
+    clent:
+        service-url:
+            defaultZone: http://localhost:8761/eureka/
+girl:
+    age: 25
+    name: 张三
